@@ -9,3 +9,8 @@ I need 50 words here. 50 of them to describe my hero. A hero he is. Yes he is. H
 * small
 * can work with git
 * good
+
+As My Superhero said:
+> I love
+> git.
+> So much.
