@@ -14,3 +14,5 @@ As My Superhero said:
 > I love
 > git.
 > So much.
+
+<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Twemoji12_1f9b9-200d-2640-fe0f.svg/1000px-Twemoji12_1f9b9-200d-2640-fe0f.svg.png>
